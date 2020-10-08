@@ -166,9 +166,9 @@ body {
 }
 
 p {
+    font-style: italic;
     font-size: 1rem;
     color: whitesmoke;
-    
     margin-left: 32.5px;
 }
 
